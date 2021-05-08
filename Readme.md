@@ -38,4 +38,11 @@ Bu veriyi Keygen'deki *Activation Request* içerisine yapıştır.
 - Bu işlemden sonra Keygen'de *Activation Response* değeri oluşacaktır. Bu değeri Burp kurulum penceresinde ki *Activation Response* alanı içerisine yapıştırın.
 
 
+## Linux ve Mac için
+Yukarıdaki talimatları yaptıdan sonra uygulama kısa yolu oluşturmak için ```root``` yetkisi ile ```install.sh``` scriptini çalıştırın.
+
+```
+sudo sh install.sh
+```
+
 ![](screenshot.png)

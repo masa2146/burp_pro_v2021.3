@@ -1,9 +1,0 @@
-[Desktop Entry]
-Version=1.0
-Name=Burp Suite Pro  
-Comment=Burp Suite Pro v2021.3
-Exec=burpsuite_pro                           
-Icon=/opt/burp_pro_v2021.3/burp_icon.png
-Terminal=false
-Type=Application
-Categories=Application;
