@@ -1,18 +1,41 @@
 Burp Suite Pro Loader & Keygen ( BurpSuite version v2020.1 - ∞ )
 
-## İndir 
+## İndir
+
+***Jar dosyası üzerinde denemeler yapıldı.***
+
+<br>Önerilen
 ```
 https://portswigger.net/burp/releases/download?product=pro&version=2021.3&type=Jar
-
+```
+```
+Linux (64-bit):		https://portswigger.net/burp/releases/download?product=pro&version=2021.3&type=Linux
+```
+```
+Mac OSX:			https://portswigger.net/burp/releases/download?product=pro&version=2021.3&type=MacOsx
+```
+```
+Windows (64-bit):	https://portswigger.net/burp/releases/download?product=pro&version=2021.3&type=WindowsX64
+```
+```
+Agent Update:		https://portswigger.net/burp/releases/download?product=pro&version=2021.3&type=AgentUpdate77
 ```
 
 ## Talimatlar
+
 Çevresel gereksinimler: Java v9-14 BurpSuite v2020.1-∞
 
-BurpLoaderKeygen (Cn) .jar'ı çalıştırmak için çift tıklayın
+- Çalıştır.
 
-Çalıştır'a tıklayın, manuel olarak etkinleştirmek için lisansı girin
+    ```
+    java -jar BurpLoaderKeygen.jar
+    ```
 
-Etkinleştirmeden sonra, Otomatik Çalıştır'ı işaretleyin ve BurpSuite'i doğrudan başlatmak için BurpLoaderKeygen (Cn) .jar'ı açın (kayıt makinesi penceresi artık görüntülenmez, hiçbir komut dosyası gerekmez, kayıt makinesini tekrar kullanmanız gerekirse, config.cfg'yi silin)
+- Açılan pencereden **Loader Command** kısmında indirdiğiniz jar dosyasını belirtiniz. *(burpsuite_pro_v2020.12.1.jar)*
+- Burp kurulumu açıldıktan sonra *Manuel Licence* ile devam edin.
+- Gelen pencerede *Activation Request* verisi dolu olarak gelecektir.
+Bu veriyi Keygen'deki *Activation Request* içerisine yapıştır.
+- Bu işlemden sonra Keygen'de *Activation Response* değeri oluşacaktır. Bu değeri Burp kurulum penceresinde ki *Activation Response* alanı içerisine yapıştırın.
 
-Güncellemeyi Yoksay işaretli değilse, BurpSuite bu programla BurpSuite'i başlattıktan sonra güncellemeyi otomatik olarak algılayacak ve güncelleme algılandığında kayıt makinesi penceresi görüntülenecektir.
+
+![](screenshot.png)
