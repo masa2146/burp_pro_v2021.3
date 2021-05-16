@@ -1,4 +1,5 @@
 currentPath=$PWD
+chmod +x $currentPath/burpsuite_pro.sh
 ln -sfn $currentPath/burpsuite_pro.sh /usr/local/bin/burpsuite_pro
 cp burpsuite_pro.desktop /usr/share/applications/
 touch /usr/share/applications/burpsuite_pro.desktop
